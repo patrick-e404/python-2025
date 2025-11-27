@@ -1,0 +1,80 @@
+[
+    {
+        "cep": "95034-160",
+        "logradouro": "Rua Feijó Júnior",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "São Pelegrino",
+        "localidade": "Caxias do Sul",
+        "uf": "RS",
+        "estado": "Rio Grande do Sul",
+        "regiao": "Sul",
+        "ibge": "4305108",
+        "gia": "",
+        "ddd": "54",
+        "siafi": "8599"
+    },
+    {
+        "cep": "95034-140",
+        "logradouro": "Rua Simão Dambroz",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Pio X",
+        "localidade": "Caxias do Sul",
+        "uf": "RS",
+        "estado": "Rio Grande do Sul",
+        "regiao": "Sul",
+        "ibge": "4305108",
+        "gia": "",
+        "ddd": "54",
+        "siafi": "8599"
+    },
+    {
+        "cep": "95034-150",
+        "logradouro": "Rua Augusto Borsarini",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Pio X",
+        "localidade": "Caxias do Sul",
+        "uf": "RS",
+        "estado": "Rio Grande do Sul",
+        "regiao": "Sul",
+        "ibge": "4305108",
+        "gia": "",
+        "ddd": "54",
+        "siafi": "8599"
+    },
+    {
+        "cep": "95034-110",
+        "logradouro": "Rua Leonel Mosele",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Pio X",
+        "localidade": "Caxias do Sul",
+        "uf": "RS",
+        "estado": "Rio Grande do Sul",
+        "regiao": "Sul",
+        "ibge": "4305108",
+        "gia": "",
+        "ddd": "54",
+        "siafi": "8599"
+    },
+    {
+        "erro": "true"
+    },
+    {
+        "cep": "95034-170",
+        "logradouro": "Rua Floriano Prezzi",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Pio X",
+        "localidade": "Caxias do Sul",
+        "uf": "RS",
+        "estado": "Rio Grande do Sul",
+        "regiao": "Sul",
+        "ibge": "4305108",
+        "gia": "",
+        "ddd": "54",
+        "siafi": "8599"
+    }
+]
