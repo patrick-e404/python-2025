@@ -13,7 +13,7 @@ elif opcao == "2":
     valor_item = 2.5
 
 if valor_item == 0:
-    print("Com todo respeito, entre com a porra do valor correto")
+    print("Valor inválido")
 
 else:
     qtde = input("Quantas garrafas? ")

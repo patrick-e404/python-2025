@@ -13,6 +13,6 @@ elif opcao == "2":
     conta = 2.5
 
 if conta == 0:
-    print("Com todo respeito, entre com a porra do valor correto")
+    print("Opção inválida")
 else:
     print("Sua conta é: R$", conta)
